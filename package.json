@@ -1,0 +1,18 @@
+{
+  "name": "kyoku-benkyo-sp",
+  "version": "1.0.0",
+  "description": "音楽プレイヤー with リクエスト機能",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^2.0.1"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT"
+}
